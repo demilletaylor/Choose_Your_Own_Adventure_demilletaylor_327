@@ -11,25 +11,27 @@ body {
     font-family: 'Proggy';
     color: white;
     background-image: url(../img/pagebg.png);
-    background-size: cover;
+    background-size: 200vh;
     background-repeat: no-repeat;
+    background-position: center;
 }
 h1{
-    font-size: 3em;
+    font-size: 5vw;
 }
 p{
-    font-size: 2em;
-    line-height: 2em;
+    font-size: 2.5vw;
+    line-height: 4vh;
 }
 header{ 
     background-color: black;
-    opacity: 80%;
+    opacity: 70%;
    margin: auto;
 }
 .logo{
   width:10%;
   margin: auto;
 }
+
 .container {
     padding: 3%;
     margin-top: 5%;
